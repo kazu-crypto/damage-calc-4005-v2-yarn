@@ -1,5 +1,5 @@
 # damage-calc
-[![Circle CI](https://circleci.com/gh/kazu-crypto/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/kazu
+[![Circle CI](https://circleci.com/gh/kazu-crypto/damage-calc-4005-v2-yarn.svg?style=svg)]
 
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
